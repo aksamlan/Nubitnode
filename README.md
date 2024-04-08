@@ -43,6 +43,7 @@ source $HOME/.bash_profile
 
 # Kuruluma devam :
 ```
+cd modular-indexer-light
 go mod tidy
 ```
 
